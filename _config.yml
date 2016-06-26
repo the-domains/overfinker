@@ -1,0 +1,14 @@
+layout_spectrum: 0.34399357880465686
+typography_spectrum: 0.19524878170341253
+color:
+  brandStrength: 0.2034428387414664
+  lightness: 0.8997846951242536
+  saturation: 0.09428913122974336
+  rhythmicContrast: 0.18911001458764076
+  brandColors:
+    - '#85DB18'
+    - '#CDE855'
+    - '#F5F6D4'
+    - '#A7C520'
+    - '#493F0B'
+name: Overfinker
