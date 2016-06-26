@@ -6,9 +6,9 @@ color:
   saturation: 0.09428913122974336
   rhythmicContrast: 0.18911001458764076
   brandColors:
-    - '#85DB18'
-    - '#CDE855'
-    - '#F5F6D4'
-    - '#A7C520'
-    - '#493F0B'
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
 name: Overfinker
